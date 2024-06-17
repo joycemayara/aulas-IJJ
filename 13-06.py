@@ -1,3 +1,4 @@
+# INÍCIO
 # Obtenção de dados do usuário
 nome_do_usuario = input("Digite o nome do usuário: ")
 altura_do_usuario = input("Insira a altura do usuário em centímetros: ")
@@ -13,3 +14,4 @@ soma_das_notas = primeira_nota + segunda_nota
 
 # Exibição do resultado da soma das notas
 print("Soma das notas: ", soma_das_notas)
+# FIM
